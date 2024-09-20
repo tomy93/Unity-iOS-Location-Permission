@@ -13,10 +13,10 @@ extern "C" {
         return authorizationStatus;
     }
 
-    /*
+    
     // Method to access iOS settings
     void _accessIOSSettings() {
         [[UIApplication sharedApplication] openURL:[NSURL URLWithString:UIApplicationOpenSettingsURLString] options:@{} completionHandler:nil];
     }
-    */
+    
 }
